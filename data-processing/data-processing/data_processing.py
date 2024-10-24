@@ -124,7 +124,7 @@ def print_summary(df):
 
 def main():
     # Path to your file (CSV, Excel, or JSON)
-    file_path = '/content/sample.csv'
+    file_path = r'C:\Users\Venky\Desktop\hacktoctober\Hacktoberfest2024\JavaScript-Apps-Programs\test-data\sample.csv'
 
     # Loading the dataset
     df = load_data(file_path)
